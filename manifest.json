@@ -1,0 +1,25 @@
+{
+  "name": "Gia Phả Dòng Họ Đoàn",
+  "short_name": "Gia Phả Họ Đoàn",
+  "description": "Ứng dụng Gia Phả Dòng Họ Đoàn - Cát Hải, Hải Phòng",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1b1713",
+  "theme_color": "#3a120b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
